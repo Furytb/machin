@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
+	"ip":"crystales_smp.aternos.me",
 	"port": "25565",
-	"name": "afkbot1",
+	"name": "machin",
 	"auto-night-skip":"true"
 }
